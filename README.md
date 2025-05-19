@@ -27,22 +27,42 @@ I'm a Master's student in Computer Science at Syracuse University, dedicated to 
 
 ![C++](https://img.shields.io/badge/C++-00599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?style=flat-square&logo=python&logoColor=white)
+![Haskell](https://img.shields.io/badge/Haskell-5D4F85.svg?style=flat-square&logo=haskell&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1.svg?style=flat-square&logo=mysql&logoColor=white)
+![SDL/SDL2](https://img.shields.io/badge/SDL-555555.svg?style=flat-square&logo=sdl&logoColor=white)
 
-### ⚙️ Frameworks & Libraries
+### ⚙️ Frameworks & Tools
 
 ![React](https://img.shields.io/badge/React-61DAFB.svg?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933.svg?style=flat-square&logo=node.js&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?style=flat-square&logo=typescript&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C.svg?style=flat-square&logo=pytorch&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-1864AB.svg?style=flat-square&logo=xgboost&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E.svg?style=flat-square&logo=amazonaws&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28.svg?style=flat-square&logo=firebase&logoColor=black)
+![Remix](https://img.shields.io/badge/Remix-000000.svg?style=flat-square&logo=remix&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032.svg?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=flat-square&logo=docker&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI/CD-2088FF.svg?style=flat-square&logo=githubactions&logoColor=white)
+![Bash/Shell](https://img.shields.io/badge/Bash/Shell-4EAA25.svg?style=flat-square&logo=gnu-bash&logoColor=white)
 
 ### 📡 Blockchain
 
 ![Solidity](https://img.shields.io/badge/Solidity-363636.svg?style=flat-square&logo=solidity&logoColor=white)
-![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D.svg?style=flat-square&logo=ethereum&logoColor=white)
+![ethers.js](https://img.shields.io/badge/ethers.js-3C3C3D.svg?style=flat-square&logo=ethereum&logoColor=white)
+![MetaMask](https://img.shields.io/badge/MetaMask-E2761B.svg?style=flat-square&logo=metamask&logoColor=white)
 ![IPFS](https://img.shields.io/badge/IPFS-65C2CB.svg?style=flat-square&logo=ipfs&logoColor=white)
+![ERC-20](https://img.shields.io/badge/ERC--20-3C3C3D.svg?style=flat-square&logo=ethereum&logoColor=white)
+![AMM](https://img.shields.io/badge/AMM-FF8C00.svg?style=flat-square)
+
+### 🤖 Machine Learning
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C.svg?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00.svg?style=flat-square&logo=tensorflow&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-1864AB.svg?style=flat-square&logo=xgboost&logoColor=white)
+![Data Augmentation](https://img.shields.io/badge/Data_Augmentation-00A300.svg?style=flat-square)
+![NLP](https://img.shields.io/badge/NLP-4B0082.svg?style=flat-square)
+
 
 ---
 
@@ -66,7 +86,7 @@ I'm a Master's student in Computer Science at Syracuse University, dedicated to 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KRUTARTH6774&layout=compact&theme=algolia" alt="Top Languages" />
-  <img src="https://github-readme-stats.vercel.app/api?username=KRUTARTH6774&show_icons=true&theme=algolia&include_all_commits=true" alt="GitHub Stats" />
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=KRUTARTH6774&show_icons=true&theme=algolia&include_all_commits=true" alt="GitHub Stats" />÷ -->
 </p>
 
 ---
@@ -75,7 +95,7 @@ I'm a Master's student in Computer Science at Syracuse University, dedicated to 
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/krutarthchaudhari/)
 - ✉️ [krutarth6774@gmail.com](mailto:krutarth6774@gmail.com)
-- 🌐 [krutarthchaudhari.com](https://krutarthchaudhari.com)
+- 🌐 [krutarthchaudhari.com](https://krutarthchaudhari.netlify.app)
 
 ---
 
